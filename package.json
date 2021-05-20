@@ -2,7 +2,7 @@
   "name": "transactions",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://Hritikkumar.github.io/onebanc-assignment",
+  "homepage": "https://Hritikkumar.github.io/onebanc-assignment",
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@fortawesome/react-fontawesome": "^0.1.14",
@@ -25,7 +25,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
